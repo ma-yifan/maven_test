@@ -10,6 +10,6 @@ public class TestGit {
         System.out.println("host_fix test maven git--5");
         System.out.println("master test maven get--6");
         System.out.println("host_fix test maven git--6");
-
+        System.out.println("after clone maven_test git---7");
     }
 }
